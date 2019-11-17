@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestAlgs4",
+            "request": "launch",
+            "mainClass": "Example.TestAlgs4",
+            "projectName": "Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestAlgs4",
+            "request": "launch",
+            "mainClass": "TestAlgs4",
+            "projectName": "Algorithms"
+        }
+    ]
+}

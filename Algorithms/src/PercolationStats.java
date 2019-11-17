@@ -1,5 +1,5 @@
 public class PercolationStats {
-
+/* 
     // perform independent trials on an n-by-n grid
     public PercolationStats(int n, int trials)
 
@@ -16,6 +16,6 @@ public class PercolationStats {
     public double confidenceHi()
 
    // test client (see below)
-   public static void main(String[] args)
+//    public static void main(String[] args) */
 
 }
